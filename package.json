@@ -1,8 +1,8 @@
 {
-  "name": "tals",
+  "author": "Lei Pan (https://github.com/superpan)",
+  "name": "tails",
   "description": "Log processor with pluggable consumers",
   "version": "0.0.1",
-  "private": false,
   "scripts": {
   },
   "repository": {
@@ -12,5 +12,7 @@
   "dependencies": {
   },
   "devDependencies": {
-  }
+  },
+  "homepage": "https://github.com/superpan/tails",
+  "license": "MIT"
 }

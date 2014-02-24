@@ -1,0 +1,16 @@
+{
+  "name": "tals",
+  "description": "Log processor with pluggable consumers",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superpan/tails.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
